@@ -1,6 +1,7 @@
 # MelanoCare
 
 **Team TecHero**
+
 **Project Title**: A Deep Learning Based Technique for Early Detection of Melanoma
 
 ## Introduction 
